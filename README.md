@@ -1,2 +1,3 @@
 # UsabilityHub-Colon-Website
-I made this UsabilityHub name website by using HTML and CSS.
+Author: Muhammad Musa Kiani.
+I made this UsabilityHub website colon by using HTML and CSS.
